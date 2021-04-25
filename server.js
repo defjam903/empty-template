@@ -1,18 +1,3 @@
-/**
- * Simple Node.js HTTP server
- *
- * Installation:
- * =============
- * Install Node.js and navigate to this directory.
- * Run npm install && clear && node server.js to start the server
- * 
- * @license: MIT License
- * @author: Jabran Rafique <jabran@united-agency.co.uk>
- *
- */
-
-
-
 var connect = require('connect');
 var http = require('http');
 var bodyParser = require('body-parser');
